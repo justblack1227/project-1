@@ -1,15 +1,3 @@
-/******************************************
-Treehouse FSJS Techdegree:
-project 1 - A Random Quote Generator
-******************************************/
-
-
-/*   *****************
-I would like to exceed expectations, but I'm okay with meeting expectations for grading. 
-     *****************
-*/   
-
-
 /*** 
  * Array of Quotes from Famous People
 ***/
@@ -103,7 +91,7 @@ function printQuote() {
 
 
 /***
-Extra Credit (#3) - This is function will change quote and background color every 10 seconds 
+This is function will change quote and background color every 10 seconds 
 ***/
 
 function changeQuoteItem() {
