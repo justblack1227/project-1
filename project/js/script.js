@@ -37,7 +37,7 @@ var quotes = [
 
 
 /***
- * Extra Credit (#2) - This function will create a random rgb color.
+ *  This function will create a random rgb color.
 ***/
 function getRanColor() {
   var counter = 0;
@@ -113,5 +113,5 @@ changeQuoteItem();
 
 document.getElementById('load-quote').addEventListener("click", printQuote, false);
 
-//Extra Credit (#2) - this code is needed to have color change with every click.
+//this code is needed to have color change with every click.
 document.body.addEventListener("click", getRanColor, false);
